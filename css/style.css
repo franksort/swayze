@@ -151,6 +151,8 @@ code,
 kbd,
 samp {
   font-family: monospace, 'Open Sans', sans-serif;
+  background-color: #f8f8f8;
+  padding: 0.2em;
 }
 /* Accessible focus treatment: people.opera.com/patrickl/experiments/keyboard/test */
 a:hover,
@@ -410,7 +412,7 @@ article header span {
   color: #939393;
 }
 .home-template article p:after {
-  content: '…';
+  content: '';
 }
 .home-template article .read-more:after {
   font-family: 'FontAwesome';
