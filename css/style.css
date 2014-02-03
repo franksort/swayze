@@ -390,6 +390,7 @@ blockquote p {
   text-transform: uppercase;
 }
 .site-header h2 {
+  font-family: "Helvetica Nue";
   font-size: .8em;
   text-transform: uppercase;
   color: #939393;
